@@ -1,0 +1,19 @@
+music = {
+    "Faslen".lower():"https://www.youtube.com/watch?v=9sekgEXGm-E",
+    "Tere Pyar Mein".lower():"https://www.youtube.com/watch?v=kfKP4o-bXzM",
+    "Baat Unkahi".lower():"https://www.youtube.com/watch?v=rn9aNVsABvc",
+    "Tairay Naam".lower():"https://www.youtube.com/watch?v=YMz4y8rQ4kU",
+    "Dekho".lower():"https://www.youtube.com/watch?v=QBe4HStWY2w",
+    "Bachpan".lower():"https://www.youtube.com/watch?v=PEF35wdQtzg",
+    "Moray Sayyaan".lower():"https://www.youtube.com/watch?v=geFnRvKly3k",
+    "Nindiya Re".lower():"https://www.youtube.com/watch?v=lMnPi_RZbxk",
+    "Piya Ghar Aaya".lower():"https://www.youtube.com/watch?v=WzlO79d3S8c",
+    "Tera Woh Pyar".lower():"https://www.youtube.com/watch?v=VcDYyicQtgU",
+    "Afreen Afreen".lower():"https://www.youtube.com/watch?v=SMlGGRAB3Hc",
+    "Tum Hi Ho".lower():"https://www.youtube.com/watch?v=<official_tum_hi_ho_id>",
+    "Channa Mereya".lower():"https://www.youtube.com/watch?v=<official_channa_mereya_id>",
+    "Kesariya".lower():"https://youtu.be/BddP6PYo2gs?si=5YcyjIDvWjb9lDxd>",
+    "Jhoome Jo Pathaan".lower():"https://www.youtube.com/watch?v=<official_jhoome_jo_pathaan_id>",
+    "Angels For Each Othe".lower():"https://www.youtube.com/watch?v=OTMQJ656r‑M",
+    "Weightless".lower():"https://www.youtube.com/watch?v=DOT1LmQbFFA"
+}
