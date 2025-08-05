@@ -16,8 +16,6 @@ This assistant uses speech recognition, text-to-speech, and web automation to cr
 - 🎵 Music playback via browser using a song dictionary
 - 📰 Read latest news headlines from NewsAPI
 - 🌐 Open websites like YouTube, GitHub, Facebook, etc.
-- 💬 Custom voice responses with pyttsx3
-- 🔐 Secure API key handling using `.env`
 
 ---
 
