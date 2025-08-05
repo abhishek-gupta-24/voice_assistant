@@ -1,4 +1,4 @@
-\# 🎙️ Alexa - Voice Assistant in Python
+## 🎙️ Alexa - Voice Assistant in Python
 
 A voice-controlled assistant built using Python that can perform tasks such as:
 - Opening popular websites
