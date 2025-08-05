@@ -26,8 +26,8 @@ This assistant uses speech recognition, text-to-speech, and web automation to cr
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/JARVIS.git
-cd JARVIS
+git clone https://github.com/abhishek-gupta-24/voice_assistant.git
+cd ALEXA
 ```
 
 ### 2. Create and Activate Virtual Environment
@@ -49,7 +49,7 @@ Create a .env file in the root directory and paste your NewsAPI key:
 ### 📁 Project Structure
 
 ```
-JARVIS/
+ALEXA/
 ├── API.py             # Loads API key from .env
 ├── main.py            # Main script to run the assistant
 ├── musicLibrary.py    # Dictionary of songs and YouTube links
